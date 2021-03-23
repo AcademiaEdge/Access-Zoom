@@ -9,4 +9,8 @@ Plan
 
 Teacher Dashboard: Has zoom links, syllabus, calendar, events
 
-Student Dashboard: 
+google or discord for oauth verification
+
+
+
+Student Dashboard: ?
