@@ -8,7 +8,7 @@ Model after this website, courtesy of Vivek: https://sport.sdeskills.com/
 
 Visit the website: http://startclass.academiaedge.com/
 
-Netifly Link: https://access-zoom.netlify.app/
+Netifly Link: https://access-zoom.netlify.app/ <-- Doesn't work, use localhost:3000
 
 Resources:
 - [Introduction to Problem](https://medium.com/swlh/how-i-automate-my-church-organisations-zoom-meeting-attendance-reporting-with-python-419dfe7da58c)
